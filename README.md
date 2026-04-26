@@ -18,6 +18,4 @@ The system monitors voltage/current condition and detects fault. If fault occurs
 - Fault detection
 - Alert message sent
 
-## Project Links
-- Demo Video: (paste link)
-- Report PDF: (paste link)
+
